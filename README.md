@@ -1,5 +1,11 @@
 # Mac-Changer
 
+Run with sudo for not getting any errors
+
+
+Adresses that start with 11 gives error so try something different
+
+
 ## Basic
 
 As you understand by its name, It is written for you to understand how simple it is.
@@ -8,6 +14,6 @@ As you understand by its name, It is written for you to understand how simple it
 
 Mac Changer Cli works by getting your input in the command line
 
-### Usage
+## Usage
 
 python3 mac_changer_cli.py -i (--interface) eth0 (change the interface as you wish) -m ... (random mac that you want)
