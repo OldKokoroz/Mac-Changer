@@ -16,4 +16,6 @@ Mac Changer Cli works by getting your input in the command line
 
 ## Usage
 
-    python3 mac_changer_cli.py -i (--interface) eth0 (change the interface as you wish) -m ... (random mac that you want)
+    sudo python3 mac_changer_cli.py -i en0 -m 23:ga:34:Fb:4g:2y 
+
+    that mac is random choose whatever you want.
